@@ -78,9 +78,6 @@ select {
     margin-left: 22px;
     margin-top: 25px;
     list-style: url("./assets/Vector.svg");
-
-
-
 }
 
 .books-list {
@@ -111,6 +108,9 @@ select {
     width: 125px;
     height: 36px;
     background: #2965f1;
+    font-weight: 700;
+    font-size: 14px;
+    color: #fff;
 }
 
 .line {
